@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T16:41:43.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UElggRReFNyzYsb0H_o7" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T16:43:57.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0ZgE8JdmyBA0Jw_Kh8yi" version="24.0.6" type="github">
   <diagram name="Página-1" id="aYtTOjOPXWL-JHapWkfF">
     <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,12 +69,6 @@
         <mxCell id="yBSICujKQYAB_PKDXEbt-21" value="Google Account" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="20" y="260" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yBSICujKQYAB_PKDXEbt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yBSICujKQYAB_PKDXEbt-24" target="yBSICujKQYAB_PKDXEbt-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yBSICujKQYAB_PKDXEbt-24" value="servicios.ucuenca.edu.ec" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="410" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="yBSICujKQYAB_PKDXEbt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yBSICujKQYAB_PKDXEbt-29" target="yBSICujKQYAB_PKDXEbt-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -105,7 +99,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yBSICujKQYAB_PKDXEbt-35" value="procesos.ucuenca.edu.ec" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="20" y="470" width="170" height="40" as="geometry" />
+          <mxGeometry x="20" y="410" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yBSICujKQYAB_PKDXEbt-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yBSICujKQYAB_PKDXEbt-49" target="yBSICujKQYAB_PKDXEbt-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
