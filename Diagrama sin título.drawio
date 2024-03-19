@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T16:41:23.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gxhyBda18s2FncNhTMDE" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T16:52:21.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="X-tyhxRKG5V3E5gO7OgD" version="24.0.7" type="github">
   <diagram name="Página-1" id="aYtTOjOPXWL-JHapWkfF">
     <mxGraphModel dx="1050" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -333,6 +333,66 @@
         </mxCell>
         <mxCell id="qcBynKlY7HmT7egTEJ2X-26" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="855" y="490" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-49" value="DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="670" y="1200" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-50" value="DB2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-51" value="ORACLE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1280" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-52" value="GDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1320" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-53" value="MOODLEDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-54" value="MONGODB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-55" value="USUARIOS Y CONTRASEÑAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1240" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-57" value="ROLES DE USUARIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1280" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-59" value="USUARIOS Y CONTRASEÑAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1320" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-61" value="USUARIOS Y ROLES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1360" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-63" value="RELACION ENTRE USUARIOS (OLDAP) Y ROLES (GROUPER)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1400" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-65" value="DESCRIPCIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="1200" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-67" value="GROUPER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-68" value="OLDAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-69" value="ADDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1520" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-70" value="APPDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-71" value="ROLES DE USUARIO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1440" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-72" value="USUARIOS Y CONTRASEÑAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1480" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-73" value="USUARIOS Y CONTRASEÑAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1520" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qcBynKlY7HmT7egTEJ2X-74" value="USUARIOS, CONTRASEÑAS Y ROLES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1560" width="340" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
